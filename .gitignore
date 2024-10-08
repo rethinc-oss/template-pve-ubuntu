@@ -1,0 +1,7 @@
+.DS_Store
+info/
+rootfs/
+.veid
+config
+logfile
+*.tar.zst
